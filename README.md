@@ -1,2 +1,1 @@
-"# javascript-" 
-"# javascript-" 
+"# javascript-忍者秘籍" 
